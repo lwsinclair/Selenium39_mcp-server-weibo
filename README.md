@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-selenium39-mcp-server-weibo-badge.png)](https://mseep.ai/app/mcp-mirror-selenium39-mcp-server-weibo)
+
 # Weibo MCP Server (TypeScript Version)
 
 This is a server based on the [Model Context Protocol](https://modelcontextprotocol.io) for scraping Weibo user information, feeds, and search functionality. This server can help retrieve detailed information about Weibo users, feed content, and perform user searches.
